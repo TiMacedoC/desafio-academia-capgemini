@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+}
+
+input {
+    
+    padding: 7px;
+    font-size: 19px;
+    font-weight: 400;
+    border-radius: 7px;
+}
+
+label {
+    
+    margin-bottom: 10px;
+    font-size: 19px;
+    font-weight: 400;
+
+}
+
+main{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.saida {
+    color: #184764;
+    width: 95%;
+    text-align: justify;
+    padding: 0 20px;
+    overflow-x: auto;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.saida h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.saida p {
+    font-size: 18px;
+    font-weight: 600;
+}

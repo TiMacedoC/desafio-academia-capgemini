@@ -1,0 +1,74 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
+button {
+    font-size: 18px;
+    width: 140px;
+    padding: 10px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin-bottom: 10px;
+    padding: 7px;
+    font-size: 19px;
+    font-weight: 400;
+    border-radius: 7px;
+}
+
+label {
+    margin-bottom: 3px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+main{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.saida {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    overflow-x: auto;
+    overflow: auto;
+}
+
+.saida h3 {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.saida p {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#aceito{
+    color: green;
+}
+
+#recusado {
+    color: red;
+}
+
+ul{
+    margin: auto;
+    width: min(500px, 100%);
+    text-align: left;
+}

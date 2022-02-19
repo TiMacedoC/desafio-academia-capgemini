@@ -1,0 +1,1 @@
+explicar onde tá a logica de cada questão e botar o link
