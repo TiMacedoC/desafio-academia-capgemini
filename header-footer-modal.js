@@ -67,5 +67,4 @@ function insereHtml(prefix) {
     modalInit.innerHTML = modal;
 
     setTimeout(() => { console.clear() }, 500)
-
 }
