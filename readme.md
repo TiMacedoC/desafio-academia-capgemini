@@ -3,7 +3,7 @@
 Desafio de programação
 
 Este repositório foi criado para desenvolver o desafio de programação para a Academia Capgemini.
-Eu desenvolvi uma pagina web com a resolução dos testes que pode ser acessada das seguintes formas: 
+Eu desenvolvi uma pagina web com a resolução dos testes propostos, essa página pode ser acessada das seguintes formas: 
 
 - [Abrir projeto rodando](https://timacedoc.github.io/desafio-academia-capgemini/)
 Link da página, hospedada no GitHub Pages, pode haver algumas inconsistências na primeira vez que abrir.
